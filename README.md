@@ -17,4 +17,4 @@ I also have many hobbies
 ---
 
 
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+[^1]: This is the first footnot
