@@ -1,8 +1,11 @@
 # Jeremiah P Pasmo
-```
-{
-"firstName": "John",
-"lastName": "Smith",
-"age": 25
-}
-```
+---
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+Goals
+- [x] Be a Football player
+- [ ] Get good grades
+- [ ] 
