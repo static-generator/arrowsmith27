@@ -8,7 +8,8 @@ Goals
 - [ ] Have many friends
 ---
 I also have many hobbies
-#RRGGBB
+
+hsl(212, 92%, 45%)
 
 |   Outside   |    Inside   |
 | ----------- | ----------- |
