@@ -18,8 +18,6 @@ hsl(212, 92%, 45%)
 
 ---
 
-> Asia
->> China
->>> Beijing
->>>> Haidian
->>>>> Tsinghua
+> Football
+>>> Love
+>>>>> Grades
