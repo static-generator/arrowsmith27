@@ -1,6 +1,6 @@
 # Jeremiah P Pasmo
 ---
-Hi im jeremiah, im gonna show you things about me!
+Hi im jeremiah, im gonna show you things <mark>about me!</mark>
 ---
 Goals
 - [x] Be a Football player
