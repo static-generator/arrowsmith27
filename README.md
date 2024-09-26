@@ -13,3 +13,8 @@ I also have many hobbies
 | ----------- | ----------- |
 | Football    | Cleaning    |
 | Badminton   | Gaming      |
+
+---
+
+
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
