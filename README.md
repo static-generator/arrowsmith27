@@ -8,6 +8,7 @@ Goals
 - [ ] Have many friends
 ---
 I also have many hobbies
+#RRGGBB
 
 |   Outside   |    Inside   |
 | ----------- | ----------- |
@@ -17,4 +18,3 @@ I also have many hobbies
 ---
 
 
-[^1]: This is the first footnot
