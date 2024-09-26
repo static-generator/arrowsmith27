@@ -23,3 +23,8 @@ hsl(212, 92%, 45%)
 >>> Mobile legends
 >>>> sleep
 >>>>> Grades
+
+code
+
+print('python')
+
