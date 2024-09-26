@@ -9,7 +9,6 @@ Goals
 ---
 I also have many hobbies
 
-hsl(212, 92%, 45%)
 
 |   Outside   |    Inside   |
 | ----------- | ----------- |
